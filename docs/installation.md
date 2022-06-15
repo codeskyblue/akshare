@@ -22,13 +22,13 @@ pip install akshare  --upgrade
 ### 国内安装-Python
 
 ```
-pip install akshare -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host=mirrors.aliyun.com  --upgrade
+pip install akshare -i https://mirrors.aliyun.com/pypi/simple/ --upgrade
 ```
 
 ### 国内安装-Anaconda
 
 ```
-pip install akshare -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host=mirrors.aliyun.com  --user  --upgrade
+pip install akshare -i https://mirrors.aliyun.com/pypi/simple/ --user --upgrade
 ```
 
 ## 升级 [AKShare](https://github.com/akfamily/akshare)
